@@ -1,1 +1,1 @@
-I've uploaded some of my personal R work here.
+Some of my personal R work.
